@@ -168,7 +168,7 @@ function initBookingForm() {
       `----------------------------------------\n` +
       `Please confirm technician arrival time. Thank you.`;
 
-    const whatsappNumber = '971501234567';
+    const whatsappNumber = '971508775343';
     const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
 
     window.open(whatsappUrl, '_blank');
