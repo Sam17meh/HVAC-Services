@@ -4,7 +4,7 @@ A responsive website for an HVAC and AC maintenance service in Dubai.
 
 ## Features
 
-- Service and company information
+- Services and company information
 - Mobile-friendly layout
 - WhatsApp contact and booking calls-to-action
 - Customer reviews and service areas
